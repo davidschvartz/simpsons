@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/simpsons/static/css/main.04179b6f.css",
+    "main.js": "/simpsons/static/js/main.d70a611b.js",
+    "static/js/787.e759f50a.chunk.js": "/simpsons/static/js/787.e759f50a.chunk.js",
+    "static/media/carrousel-3.jpg": "/simpsons/static/media/carrousel-3.424560c4e6ad8e7d754f.jpg",
+    "static/media/carrousel-2.jpg": "/simpsons/static/media/carrousel-2.fd9123521a9f93c1a962.jpg",
+    "static/media/carrousel-1.jpg": "/simpsons/static/media/carrousel-1.9b34cf9c841007dd1667.jpg",
+    "static/media/nocheDeBrujas.jpg": "/simpsons/static/media/nocheDeBrujas.2f9eacad325309004a12.jpg",
+    "static/media/educacion.jpg": "/simpsons/static/media/educacion.2c4f6f2f97dde118d7e4.jpg",
+    "index.html": "/simpsons/index.html",
+    "main.04179b6f.css.map": "/simpsons/static/css/main.04179b6f.css.map",
+    "main.d70a611b.js.map": "/simpsons/static/js/main.d70a611b.js.map",
+    "787.e759f50a.chunk.js.map": "/simpsons/static/js/787.e759f50a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04179b6f.css",
+    "static/js/main.d70a611b.js"
+  ]
+}
